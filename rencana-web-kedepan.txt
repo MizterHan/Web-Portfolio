@@ -5,3 +5,4 @@ Rencana web kedepan
 -JS Lanjutan
 -Struktur Data
 -python
+-Numpy
