@@ -4,3 +4,5 @@ Rencana web kedepan
 -Taildwin css
 -JS Lanjutan
 -Struktur Data
+-Angular
+-React
