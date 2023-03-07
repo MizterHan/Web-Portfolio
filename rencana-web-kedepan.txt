@@ -2,3 +2,4 @@ Rencana web kedepan
 
 -Node Js
 -Taildwin css
+-JS Lanjutan
