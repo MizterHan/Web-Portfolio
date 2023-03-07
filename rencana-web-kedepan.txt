@@ -3,8 +3,8 @@ Rencana web kedepan
 -Node Js
 -Taildwin css
 -JS Lanjutan
--Struktur Data
--python
+-python oop
+=======
 -Numpy
 -css
 -css layout
