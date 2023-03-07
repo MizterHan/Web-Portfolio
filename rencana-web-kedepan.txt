@@ -6,3 +6,5 @@ Rencana web kedepan
 -Struktur Data
 -python
 -Numpy
+-css
+-css layout
