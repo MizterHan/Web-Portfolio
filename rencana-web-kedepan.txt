@@ -5,4 +5,6 @@ Rencana web kedepan
 -JS Lanjutan
 -Struktur Data
 -Angular
--React
+-Numpy
+-css
+-css layout
