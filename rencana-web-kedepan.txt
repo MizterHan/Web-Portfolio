@@ -4,3 +4,4 @@ Rencana web kedepan
 -Taildwin css
 -JS Lanjutan
 -Struktur Data
+-python oop
